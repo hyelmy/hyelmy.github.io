@@ -101,17 +101,18 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "heryms@naver.com"
+      url: "heryms@naver.com"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/hyelmy"
+      url: "https://github.com/hyelmy"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/hyelmy"
+      url: "https://github.com/hyelmy"
 
 
 # Reading Files
