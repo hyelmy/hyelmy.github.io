@@ -1,6 +1,6 @@
 ---
 title: "github 블로그 운영할 때  꿀팁"
-exerpt: "커밋 하기전 미리보기방법, vim 단축키 등등!"
+excerpt: "커밋 하기전 미리보기방법, vim 단축키 등등!"
 
 categories:
   - "끄적끄적"
