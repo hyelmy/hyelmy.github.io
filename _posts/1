@@ -1,0 +1,33 @@
+---
+title: "DP - 개미전사 문제 간단 풀이"
+excerpt: "알고리즘 문제 풀이"
+classes: wide
+categories:
+  - 알고리즘
+
+tags:
+  - 알고리즘
+
+last_modified_at: 2021-01-04
+---
+
+```
+n = int(input())
+
+array = list(map(int, input().split()))
+
+d = [0]*100
+
+
+d[0] = array[0]
+d[1] = max(array[0], array[1])
+
+for i in range(2, n):
+    d[i] = max(d[i-1], d[i-2]+array[i])
+    print(d)
+
+print(d[n-1])
+```
+
+
+![](https://hyelmy.github.io/assets/images/개미전사풀이.jpeg) 
