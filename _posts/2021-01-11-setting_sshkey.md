@@ -1,7 +1,7 @@
 ---
 title: "Github ssh key 생성, 등록하는 방법"
 excerpt: "ssh key를 생성해서 Github에 등록해서 사용해보자~!"
-class: wide
+classes: wide
 categories:
   - "끄적끄적"
 tags:
